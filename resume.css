@@ -5,7 +5,7 @@ body {
   padding: 0;
   background-color: #f8f8f8;
   color: #424242;
-  font-size: 12px;
+  font-size: 13px;
   font-family: "Open Sans", sans-serif;
 }
 
@@ -123,17 +123,18 @@ p {
   color: #e55754;
   font-family: "Lexend Tera", sans-serif;
   font-weight: 800;
-  margin-bottom: 4mm;
+  margin-bottom: 3mm;
   font-size: 1rem;
 }
 
 .page-section .sub-header {
   font-weight: 800;
+  font-size: 1em;
 }
 .page-section .sub-sub-header {
   font-style: italic;
   font-size: 12px;
-  margin-bottom: 3mm;
+  margin-bottom: 1.5mm;
 }
 
 .page-section .left {
@@ -148,7 +149,7 @@ p {
   max-width: 75mm;
 }
 .page-section .section {
-  padding: 0mm 5mm 4mm 7mm;
+  padding: 0mm 7mm 1mm 7mm;
 }
 
 .page-section .sub-section {
@@ -175,8 +176,8 @@ ul li::before {
   left: 0;
   margin-top: 0.4em;
   background: #e55754;
-  height: 2mm;
-  width: 2mm;
+  height: 1.5mm;
+  width: 1.5mm;
   border-radius: 50%;
 }
 
