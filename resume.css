@@ -3,8 +3,8 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
-  background-color: #f8f8f8;
-  color: #424242;
+  background-color: #fbfbfb;
+  /* color: #424242; */
   font-size: 13px;
   font-family: "Open Sans", sans-serif;
 }
@@ -38,6 +38,7 @@ h1 {
   font-family: "Slabo 27px", serif;
   font-weight: 700;
   font-size: 35px;
+  word-spacing: 0.6rem;
 }
 p {
   margin-bottom: 1mm;
@@ -51,7 +52,7 @@ p {
   width: 250mm;
   min-height: 310mm;
   margin: 10mm auto;
-  background-color: white;
+  background-color: #fbfbfb;
   box-shadow: 0 0 20px rgba(1, 1, 1, 1);
 }
 
@@ -108,7 +109,7 @@ p {
 }
 .page-section .gray-bar {
   width: 5mm;
-  background-color: #e0dfdd;
+  background-color: #cbcbcb;
 }
 
 .page-section .divider {
@@ -116,7 +117,7 @@ p {
   margin-top: 10mm;
   margin-bottom: 5mm;
   border-radius: 2mm;
-  background-color: #e0dfdd;
+  background-color: #cbcbcb;
 }
 
 .page-section .header {
